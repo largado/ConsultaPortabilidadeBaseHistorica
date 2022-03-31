@@ -21,7 +21,7 @@
     <form id="form1" runat="server">
         <div>
         </div>
-        <asp:Image ID="Image1" runat="server" ImageAlign="Right" Height="88px" ImageUrl="img/nextel_logo.png" Width="212px" />
+        
         <div class="auto-style1">
             <h2>Consulta Portabilidade Base Histórica</h2>
             
@@ -29,7 +29,8 @@
         
         
         Digite o número de telefone sem o 55:
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:TextBox ID="TextBox1" runat="server" required placeholder=XXXXXXXXXXX></asp:TextBox>
+        
         
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Buscar" />
         
