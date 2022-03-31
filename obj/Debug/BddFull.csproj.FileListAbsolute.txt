@@ -1,0 +1,12 @@
+C:\Users\ajesu9\source\repos\BddFull\BddFull\bin\BddFull.dll.config
+C:\Users\ajesu9\source\repos\BddFull\BddFull\bin\BddFull.dll
+C:\Users\ajesu9\source\repos\BddFull\BddFull\bin\BddFull.pdb
+C:\Users\ajesu9\source\repos\BddFull\BddFull\obj\Debug\BddFull.csprojAssemblyReference.cache
+C:\Users\ajesu9\source\repos\BddFull\BddFull\obj\Debug\BddFull.csproj.CoreCompileInputs.cache
+C:\Users\ajesu9\source\repos\BddFull\BddFull\obj\Debug\BddFull.dll
+C:\Users\ajesu9\source\repos\BddFull\BddFull\obj\Debug\BddFull.pdb
+C:\Users\mperei25\source\repos\BddFull\BddFull\bin\BddFull.dll
+C:\Users\mperei25\source\repos\BddFull\BddFull\bin\BddFull.pdb
+C:\Users\mperei25\source\repos\BddFull\BddFull\obj\Debug\BddFull.dll
+C:\Users\mperei25\source\repos\BddFull\BddFull\obj\Debug\BddFull.pdb
+C:\Users\mperei25\source\repos\BddFull\BddFull\obj\Debug\BddFull.csprojResolveAssemblyReference.cache
